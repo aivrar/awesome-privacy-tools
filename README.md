@@ -93,6 +93,7 @@ Receive SMS verification codes without exposing your real phone number — the p
 
 - [Briar](https://briarproject.org/) - Peer-to-peer messaging designed for censorship resistance and offline scenarios.
 - [Element](https://element.io/) - Matrix client for end-to-end encrypted personal and team chat.
+- [Fliporium](https://fliporium.com/) - Portable Windows app for end-to-end encrypted peer-to-peer group chat and file sharing without an account, with a self-hostable signaling server.
 - [Jami](https://jami.net/) - Peer-to-peer voice, video, and messaging app.
 - [Matrix](https://matrix.org/) - Open protocol for decentralized, end-to-end encrypted communication.
 - [Molly](https://molly.im/) - Hardened Android client based on Signal.
